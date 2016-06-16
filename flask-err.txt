@@ -1,0 +1,2 @@
+<h3>FLASK</h3>
+AttributeError: type object 'Category' has no attribute 'query'
